@@ -5,10 +5,7 @@
  * obj.add(num);
  * int param_2 = obj.getProduct(k);
  */
- import java.util.ArrayList;
-import java.util.List;
-
-class ProductOfNumbers {
+ class ProductOfNumbers {
     private List<Integer> prefixProducts;
 
     public ProductOfNumbers() {
